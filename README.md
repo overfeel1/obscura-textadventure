@@ -1,3 +1,11 @@
+
+ ______     ______     ______     ______     __  __     ______     ______    
+/\  __ \   /\  == \   /\  ___\   /\  ___\   /\ \/\ \   /\  == \   /\  __ \   
+\ \ \/\ \  \ \  __<   \ \___  \  \ \ \____  \ \ \_\ \  \ \  __<   \ \  __ \  
+ \ \_____\  \ \_____\  \/\_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\ 
+  \/_____/   \/_____/   \/_____/   \/_____/   \/_____/   \/_/ /_/   \/_/\/_/ 
+
+
 # OBSCURA – Ein Sci-Fi Textadventure
 
 Ich habe früher in der Schulpause selbst gern Textadventures gespielt – jetzt habe ich mein eigenes entwickelt und damit mein erstes, richtiges Projekt beendet. 
@@ -31,3 +39,7 @@ Voraussetzungen:
 - Python 3.x
 
 vollständig in Python umgesetzt.
+
+noch geplant : soundeffekte, GUI und Web-Version.
+
+by Robin Koppers 
